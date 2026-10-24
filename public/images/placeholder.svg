@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Gambar contoh</title>
+  <rect width="640" height="360" fill="#e2e8f0"/>
+  <circle cx="440" cy="100" r="32" fill="#94a3b8"/>
+  <path d="M0 300L180 140L340 280L450 190L640 330V360H0Z" fill="#64748b"/>
+</svg>
